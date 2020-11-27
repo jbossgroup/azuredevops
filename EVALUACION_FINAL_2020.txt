@@ -1,0 +1,8 @@
+Lab 12 Automating Selenium Test In Azure Pipelines
+Evaluacion:
+----------
+Fecha de Entrega Lunes 30 de Noviembre , 12 PM GMT-5
+Email: ccarreno@cienciadedatos.es
+Asunto: Azure Devops Evaluacio - {Nombres y Apellidos}
+Adjuntar el Documento Word de la Solucion.
+
